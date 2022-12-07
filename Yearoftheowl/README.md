@@ -4,12 +4,12 @@ Disclosure
 
 # Reconn
 
-onesixtyone  10.10.2.33 -c /usr/share/seclists/Discovery/SNMP/snmp-onesixtyone.txt 
+> onesixtyone  10.10.2.33 -c /usr/share/seclists/Discovery/SNMP/snmp-onesixtyone.txt 
 
 Scanning 1 hosts, 3219 communities
 10.10.2.33 [openview] Hardware: Intel64 Family 6 Model 63 Stepping 2 AT/AT COMPATIBLE - Software: Windows Version 6.3 (Build 17763 Multiprocessor Free)
 
-snmpwalk -c openview -v1 10.10.2.33 1.3.6.1.4.1.77.1.2.25
+> snmpwalk -c openview -v1 10.10.2.33 1.3.6.1.4.1.77.1.2.25
 
 └─# snmpwalk -c openview -v1 10.10.2.33 1.3.6.1.4.1.77.1.2.25
 iso.3.6.1.4.1.77.1.2.25.1.1.5.71.117.101.115.116 = STRING: "Guest"
