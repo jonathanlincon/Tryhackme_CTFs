@@ -20,7 +20,7 @@ Remember that passwords should be a memorable word, followed by two numbers and 
 Create list with words "words.txt"
 create list with caracteres special
 
-> for i in {10..99};do while read line;do echo $line$i;done < words.txt;done > words_num.txt
+>>for i in {10..99};do while read line;do echo $line$i;done < words.txt;done > words_num.txt
 > while read line;do while read char;do echo $line$char;done < carac; done < words_num.txt > Final_wordlist.txt
 
 
