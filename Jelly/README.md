@@ -4,12 +4,16 @@
 
 
 robyns-petshop.thm
+
 monitorr.robyns-petshop.thm
+
 beta.robyns-petshop.thm
+
 dev.robyns-petshop.thm
 
 
 Looking for searchsploit Monitor 1.7.6 found exploit
+
 https://www.exploit-db.com/exploits/48980
 
 ## Payloads
@@ -115,6 +119,7 @@ pass:dirty_sock
 ******
 
 : su dirty_sock
+
 : sudo su
 
 root#>
