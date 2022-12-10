@@ -13,7 +13,7 @@ aftercaptureburprequest,singleparametersuspectisCookie
 	[02:59:05][INFO]testingconnectiontothetargetURL
 	youhavenotdeclaredcookie(s),whileserverwantstosetitsown('id=5f9d79710af...8d71d695f5').
 
-editcookieid='
+edit cookie id='
 	#response
 
 	HTTP/1.1200OK
