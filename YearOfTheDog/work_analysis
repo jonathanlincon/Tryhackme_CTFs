@@ -1,0 +1,711 @@
+Sep  5 20:52:34 staging-server sshd[39184]: Received disconnect from 192.168.1.142 port 45582:11: Bye Bye [preauth]
+Sep  5 20:52:34 staging-server sshd[39184]: Disconnected from authenticating user root 192.168.1.142 port 45582 [preauth]
+Sep  5 20:52:35 staging-server sshd[39190]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39191]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39194]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39195]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39192]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39189]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39186]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39196]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39188]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39197]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39187]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39198]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39193]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39201]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:35 staging-server sshd[39216]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:37 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:37 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:37 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:37 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:37 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:37 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:37 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:37 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:37 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:37 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:37 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:37 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:37 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:37 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:37 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:37 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:39 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:39 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:39 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:39 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:39 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:39 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:39 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:39 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:39 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:39 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:39 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:39 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:39 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:39 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:39 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:39 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:42 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:42 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:42 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:42 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:42 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:42 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:42 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:42 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:42 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:42 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:42 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:42 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:42 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:42 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:42 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:42 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:43 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:43 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:43 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:43 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:43 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:43 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:43 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:43 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:43 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:43 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:43 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:43 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:43 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:43 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:43 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:43 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:45 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:45 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:45 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:45 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:45 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:45 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:45 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:45 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:45 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:45 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:45 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:45 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:45 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:45 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:45 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:46 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:47 staging-server sshd[39201]: Failed password for root from 192.168.1.142 port 45620 ssh2
+Sep  5 20:52:47 staging-server sshd[39201]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45620 ssh2 [preauth]
+Sep  5 20:52:47 staging-server sshd[39201]: Disconnecting authenticating user root 192.168.1.142 port 45620: Too many authentication failures [preauth]
+Sep  5 20:52:47 staging-server sshd[39201]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:47 staging-server sshd[39201]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:47 staging-server sshd[39190]: Failed password for root from 192.168.1.142 port 45594 ssh2
+Sep  5 20:52:47 staging-server sshd[39190]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45594 ssh2 [preauth]
+Sep  5 20:52:47 staging-server sshd[39190]: Disconnecting authenticating user root 192.168.1.142 port 45594: Too many authentication failures [preauth]
+Sep  5 20:52:47 staging-server sshd[39190]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:47 staging-server sshd[39190]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39191]: Failed password for root from 192.168.1.142 port 45596 ssh2
+Sep  5 20:52:48 staging-server sshd[39191]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45596 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39191]: Disconnecting authenticating user root 192.168.1.142 port 45596: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39191]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39191]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39195]: Failed password for root from 192.168.1.142 port 45592 ssh2
+Sep  5 20:52:48 staging-server sshd[39195]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45592 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39193]: Failed password for root from 192.168.1.142 port 45600 ssh2
+Sep  5 20:52:48 staging-server sshd[39195]: Disconnecting authenticating user root 192.168.1.142 port 45592: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39188]: Failed password for root from 192.168.1.142 port 45588 ssh2
+Sep  5 20:52:48 staging-server sshd[39188]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45588 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39196]: Failed password for root from 192.168.1.142 port 45606 ssh2
+Sep  5 20:52:48 staging-server sshd[39196]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45606 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39196]: Disconnecting authenticating user root 192.168.1.142 port 45606: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39196]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39195]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39189]: Failed password for root from 192.168.1.142 port 45590 ssh2
+Sep  5 20:52:48 staging-server sshd[39196]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39188]: Disconnecting authenticating user root 192.168.1.142 port 45588: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39189]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45590 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39195]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39188]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39193]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45600 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39200]: Failed password for root from 192.168.1.142 port 45618 ssh2
+Sep  5 20:52:48 staging-server sshd[39189]: Disconnecting authenticating user root 192.168.1.142 port 45590: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39189]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39197]: Failed password for root from 192.168.1.142 port 45608 ssh2
+Sep  5 20:52:48 staging-server sshd[39193]: Disconnecting authenticating user root 192.168.1.142 port 45600: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39198]: Failed password for root from 192.168.1.142 port 45614 ssh2
+Sep  5 20:52:48 staging-server sshd[39200]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45618 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39188]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39189]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39193]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39197]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45608 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39198]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45614 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39200]: Disconnecting authenticating user root 192.168.1.142 port 45618: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39193]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39200]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39198]: Disconnecting authenticating user root 192.168.1.142 port 45614: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39197]: Disconnecting authenticating user root 192.168.1.142 port 45608: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39198]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39197]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39200]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39198]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39197]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39194]: Failed password for root from 192.168.1.142 port 45602 ssh2
+Sep  5 20:52:48 staging-server sshd[39186]: Failed password for root from 192.168.1.142 port 45584 ssh2
+Sep  5 20:52:48 staging-server sshd[39192]: Failed password for root from 192.168.1.142 port 45598 ssh2
+Sep  5 20:52:48 staging-server sshd[39194]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45602 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39187]: Failed password for root from 192.168.1.142 port 45586 ssh2
+Sep  5 20:52:48 staging-server sshd[39194]: Disconnecting authenticating user root 192.168.1.142 port 45602: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39186]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45584 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39192]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45598 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39194]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39186]: Disconnecting authenticating user root 192.168.1.142 port 45584: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39192]: Disconnecting authenticating user root 192.168.1.142 port 45598: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39194]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39187]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45586 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39186]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39192]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39187]: Disconnecting authenticating user root 192.168.1.142 port 45586: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39186]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39192]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39187]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39187]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:48 staging-server sshd[39216]: Failed password for root from 192.168.1.142 port 45622 ssh2
+Sep  5 20:52:48 staging-server sshd[39216]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45622 ssh2 [preauth]
+Sep  5 20:52:48 staging-server sshd[39216]: Disconnecting authenticating user root 192.168.1.142 port 45622: Too many authentication failures [preauth]
+Sep  5 20:52:48 staging-server sshd[39216]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:52:48 staging-server sshd[39216]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:52:57 staging-server sshd[39218]: Invalid user dylanLabr4d0rs4L1f3 from 192.168.1.142 port 45624
+Sep  5 20:53:02 staging-server sshd[39218]: pam_unix(sshd:auth): check pass; user unknown
+Sep  5 20:53:02 staging-server sshd[39218]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142
+Sep  5 20:53:03 staging-server sshd[39218]: Failed password for invalid user dylanLabr4d0rs4L1f3 from 192.168.1.142 port 45624 ssh2
+Sep  5 20:53:04 staging-server sshd[39218]: Connection closed by invalid user dylanLabr4d0rs4L1f3 192.168.1.142 port 45624 [preauth]
+Sep  5 20:53:17 staging-server sshd[39220]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39222]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39224]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39230]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39231]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39226]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39234]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39233]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39232]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39225]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39227]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39235]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39228]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39229]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39242]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:18 staging-server sshd[39239]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:19 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:20 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:20 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:20 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:20 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:20 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:20 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:20 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:20 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:20 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:20 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:20 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:20 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:20 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:20 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:20 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:21 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:21 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:21 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:21 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:21 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:21 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:21 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:21 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:21 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:21 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:21 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:21 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:21 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:21 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:21 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:22 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:24 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:24 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:24 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:24 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:24 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:24 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:24 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:24 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:24 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:24 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:24 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:24 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:24 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:24 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:24 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:25 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:26 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:26 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:26 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:26 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:26 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:26 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:26 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:26 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:26 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:26 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:26 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:26 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:26 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:26 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:26 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:26 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:28 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:28 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:28 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:28 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:28 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:28 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:28 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:28 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:28 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:28 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:28 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:28 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:28 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:28 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:28 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:29 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:31 staging-server sshd[39242]: Failed password for root from 192.168.1.142 port 45664 ssh2
+Sep  5 20:53:31 staging-server sshd[39242]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45664 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39242]: Disconnecting authenticating user root 192.168.1.142 port 45664: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39242]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39242]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39226]: Failed password for root from 192.168.1.142 port 45634 ssh2
+Sep  5 20:53:31 staging-server sshd[39225]: Failed password for root from 192.168.1.142 port 45632 ssh2
+Sep  5 20:53:31 staging-server sshd[39226]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45634 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39225]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45632 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39226]: Disconnecting authenticating user root 192.168.1.142 port 45634: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39225]: Disconnecting authenticating user root 192.168.1.142 port 45632: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39226]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39226]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39225]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39225]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39224]: Failed password for root from 192.168.1.142 port 45630 ssh2
+Sep  5 20:53:31 staging-server sshd[39224]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45630 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39224]: Disconnecting authenticating user root 192.168.1.142 port 45630: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39224]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39224]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39235]: Failed password for root from 192.168.1.142 port 45652 ssh2
+Sep  5 20:53:31 staging-server sshd[39235]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45652 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39235]: Disconnecting authenticating user root 192.168.1.142 port 45652: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39235]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39235]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39239]: Failed password for root from 192.168.1.142 port 45662 ssh2
+Sep  5 20:53:31 staging-server sshd[39239]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45662 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39239]: Disconnecting authenticating user root 192.168.1.142 port 45662: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39239]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39239]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39227]: Failed password for root from 192.168.1.142 port 45636 ssh2
+Sep  5 20:53:31 staging-server sshd[39228]: Failed password for root from 192.168.1.142 port 45638 ssh2
+Sep  5 20:53:31 staging-server sshd[39227]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45636 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39228]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45638 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39227]: Disconnecting authenticating user root 192.168.1.142 port 45636: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39230]: Failed password for root from 192.168.1.142 port 45642 ssh2
+Sep  5 20:53:31 staging-server sshd[39230]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45642 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39227]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39230]: Disconnecting authenticating user root 192.168.1.142 port 45642: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39222]: Failed password for root from 192.168.1.142 port 45628 ssh2
+Sep  5 20:53:31 staging-server sshd[39234]: Failed password for root from 192.168.1.142 port 45650 ssh2
+Sep  5 20:53:31 staging-server sshd[39233]: Failed password for root from 192.168.1.142 port 45648 ssh2
+Sep  5 20:53:31 staging-server sshd[39231]: Failed password for root from 192.168.1.142 port 45644 ssh2
+Sep  5 20:53:31 staging-server sshd[39229]: Failed password for root from 192.168.1.142 port 45640 ssh2
+Sep  5 20:53:31 staging-server sshd[39232]: Failed password for root from 192.168.1.142 port 45646 ssh2
+Sep  5 20:53:31 staging-server sshd[39222]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45628 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39229]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45640 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39233]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45648 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39231]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45644 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39232]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45646 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39234]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45650 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39222]: Disconnecting authenticating user root 192.168.1.142 port 45628: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39229]: Disconnecting authenticating user root 192.168.1.142 port 45640: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39233]: Disconnecting authenticating user root 192.168.1.142 port 45648: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39231]: Disconnecting authenticating user root 192.168.1.142 port 45644: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39232]: Disconnecting authenticating user root 192.168.1.142 port 45646: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39234]: Disconnecting authenticating user root 192.168.1.142 port 45650: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39229]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39233]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39231]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39232]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39234]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39230]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39227]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39229]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39233]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39232]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39228]: Disconnecting authenticating user root 192.168.1.142 port 45638: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39234]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39231]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39230]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39228]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39222]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39222]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39228]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:53:31 staging-server sshd[39220]: Failed password for root from 192.168.1.142 port 45626 ssh2
+Sep  5 20:53:31 staging-server sshd[39220]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45626 ssh2 [preauth]
+Sep  5 20:53:31 staging-server sshd[39220]: Disconnecting authenticating user root 192.168.1.142 port 45626: Too many authentication failures [preauth]
+Sep  5 20:53:31 staging-server sshd[39220]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:53:31 staging-server sshd[39220]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:00 staging-server sshd[39255]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:00 staging-server sshd[39254]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:00 staging-server sshd[39253]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39261]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39262]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39257]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39258]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39265]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39266]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39259]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39269]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39264]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39260]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39263]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39281]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:01 staging-server sshd[39283]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:02 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:02 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:02 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:02 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:02 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:03 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:03 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:03 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:03 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:03 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:03 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:03 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:03 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:03 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:03 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:03 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:04 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:04 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:04 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:04 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:04 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:05 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:05 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:05 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:05 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:05 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:05 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:05 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:05 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:05 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:05 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:05 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:07 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:07 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:07 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:07 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:07 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:07 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:07 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:07 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:07 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:07 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:07 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:07 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:07 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:07 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:07 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:07 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:08 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:08 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:08 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:08 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:08 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:09 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:09 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:09 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:09 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:09 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:09 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:09 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:09 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:09 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:09 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:09 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:11 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:11 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:11 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:11 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:11 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:11 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:11 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:11 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:11 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:11 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:11 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:11 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:11 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:11 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:11 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:11 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:14 staging-server sshd[39253]: Failed password for root from 192.168.1.142 port 45666 ssh2
+Sep  5 20:54:14 staging-server sshd[39253]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45666 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39253]: Disconnecting authenticating user root 192.168.1.142 port 45666: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39253]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39253]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39255]: Failed password for root from 192.168.1.142 port 45670 ssh2
+Sep  5 20:54:14 staging-server sshd[39254]: Failed password for root from 192.168.1.142 port 45668 ssh2
+Sep  5 20:54:14 staging-server sshd[39254]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45668 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39254]: Disconnecting authenticating user root 192.168.1.142 port 45668: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39255]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45670 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39254]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39254]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39255]: Disconnecting authenticating user root 192.168.1.142 port 45670: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39255]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39255]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39257]: Failed password for root from 192.168.1.142 port 45672 ssh2
+Sep  5 20:54:14 staging-server sshd[39257]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45672 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39257]: Disconnecting authenticating user root 192.168.1.142 port 45672: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39257]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39257]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39261]: Failed password for root from 192.168.1.142 port 45680 ssh2
+Sep  5 20:54:14 staging-server sshd[39261]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45680 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39261]: Disconnecting authenticating user root 192.168.1.142 port 45680: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39261]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39261]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39265]: Failed password for root from 192.168.1.142 port 45688 ssh2
+Sep  5 20:54:14 staging-server sshd[39265]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45688 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39265]: Disconnecting authenticating user root 192.168.1.142 port 45688: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39265]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39265]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39263]: Failed password for root from 192.168.1.142 port 45684 ssh2
+Sep  5 20:54:14 staging-server sshd[39262]: Failed password for root from 192.168.1.142 port 45682 ssh2
+Sep  5 20:54:14 staging-server sshd[39258]: Failed password for root from 192.168.1.142 port 45674 ssh2
+Sep  5 20:54:14 staging-server sshd[39263]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45684 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39258]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45674 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39262]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45682 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39263]: Disconnecting authenticating user root 192.168.1.142 port 45684: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39259]: Failed password for root from 192.168.1.142 port 45676 ssh2
+Sep  5 20:54:14 staging-server sshd[39264]: Failed password for root from 192.168.1.142 port 45686 ssh2
+Sep  5 20:54:14 staging-server sshd[39281]: Failed password for root from 192.168.1.142 port 45702 ssh2
+Sep  5 20:54:14 staging-server sshd[39260]: Failed password for root from 192.168.1.142 port 45678 ssh2
+Sep  5 20:54:14 staging-server sshd[39266]: Failed password for root from 192.168.1.142 port 45690 ssh2
+Sep  5 20:54:14 staging-server sshd[39269]: Failed password for root from 192.168.1.142 port 45696 ssh2
+Sep  5 20:54:14 staging-server sshd[39264]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45686 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39259]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45676 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39260]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45678 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39266]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45690 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39281]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45702 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39264]: Disconnecting authenticating user root 192.168.1.142 port 45686: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39269]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45696 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39260]: Disconnecting authenticating user root 192.168.1.142 port 45678: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39266]: Disconnecting authenticating user root 192.168.1.142 port 45690: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39258]: Disconnecting authenticating user root 192.168.1.142 port 45674: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39281]: Disconnecting authenticating user root 192.168.1.142 port 45702: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39259]: Disconnecting authenticating user root 192.168.1.142 port 45676: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39264]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39269]: Disconnecting authenticating user root 192.168.1.142 port 45696: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39260]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39262]: Disconnecting authenticating user root 192.168.1.142 port 45682: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39263]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39266]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39258]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39281]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39259]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39269]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39260]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39266]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39263]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39258]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39281]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39264]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39269]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39259]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39262]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39262]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:14 staging-server sshd[39283]: Failed password for root from 192.168.1.142 port 45704 ssh2
+Sep  5 20:54:14 staging-server sshd[39283]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45704 ssh2 [preauth]
+Sep  5 20:54:14 staging-server sshd[39283]: Disconnecting authenticating user root 192.168.1.142 port 45704: Too many authentication failures [preauth]
+Sep  5 20:54:14 staging-server sshd[39283]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:14 staging-server sshd[39283]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:43 staging-server sshd[39287]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39286]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39288]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39285]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39293]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39295]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39296]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39298]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39301]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39303]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39300]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39299]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39302]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:43 staging-server sshd[39305]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:44 staging-server sshd[39314]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:44 staging-server sshd[39313]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:45 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:45 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:45 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:45 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:45 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:46 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:46 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:46 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:46 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:46 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:46 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:46 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:46 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:46 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:46 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:46 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:47 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:47 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:47 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:47 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:47 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:48 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:48 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:48 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:48 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:48 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:48 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:48 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:48 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:48 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:49 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:49 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:50 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:50 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:50 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:50 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:50 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:50 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:50 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:50 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:50 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:50 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:50 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:50 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:50 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:50 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:50 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:50 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:52 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:52 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:52 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:52 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:52 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:52 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:52 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:52 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:52 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:52 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:52 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:52 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:52 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:52 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:52 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:52 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:53 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:53 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:54 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:54 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:54 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:54 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:54 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:54 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:54 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:54 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:54 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:54 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:54 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:54 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:54 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:54 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:56 staging-server sshd[39313]: Failed password for root from 192.168.1.142 port 45744 ssh2
+Sep  5 20:54:56 staging-server sshd[39313]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45744 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39313]: Disconnecting authenticating user root 192.168.1.142 port 45744: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39314]: Failed password for root from 192.168.1.142 port 45746 ssh2
+Sep  5 20:54:56 staging-server sshd[39314]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45746 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39314]: Disconnecting authenticating user root 192.168.1.142 port 45746: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39314]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39313]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39313]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39314]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39295]: Failed password for root from 192.168.1.142 port 45718 ssh2
+Sep  5 20:54:56 staging-server sshd[39295]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45718 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39295]: Disconnecting authenticating user root 192.168.1.142 port 45718: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39295]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39295]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39296]: Failed password for root from 192.168.1.142 port 45720 ssh2
+Sep  5 20:54:56 staging-server sshd[39296]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45720 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39296]: Disconnecting authenticating user root 192.168.1.142 port 45720: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39296]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39296]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39285]: Failed password for root from 192.168.1.142 port 45708 ssh2
+Sep  5 20:54:56 staging-server sshd[39285]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45708 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39285]: Disconnecting authenticating user root 192.168.1.142 port 45708: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39285]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39285]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39286]: Failed password for root from 192.168.1.142 port 45712 ssh2
+Sep  5 20:54:56 staging-server sshd[39288]: Failed password for root from 192.168.1.142 port 45714 ssh2
+Sep  5 20:54:56 staging-server sshd[39287]: Failed password for root from 192.168.1.142 port 45706 ssh2
+Sep  5 20:54:56 staging-server sshd[39293]: Failed password for root from 192.168.1.142 port 45716 ssh2
+Sep  5 20:54:56 staging-server sshd[39293]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45716 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39286]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45712 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39287]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45706 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39288]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45714 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39293]: Disconnecting authenticating user root 192.168.1.142 port 45716: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39286]: Disconnecting authenticating user root 192.168.1.142 port 45712: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39287]: Disconnecting authenticating user root 192.168.1.142 port 45706: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39288]: Disconnecting authenticating user root 192.168.1.142 port 45714: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39293]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39286]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39287]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39288]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39293]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39287]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39286]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39288]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39303]: Failed password for root from 192.168.1.142 port 45736 ssh2
+Sep  5 20:54:56 staging-server sshd[39303]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45736 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39303]: Disconnecting authenticating user root 192.168.1.142 port 45736: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39300]: Failed password for root from 192.168.1.142 port 45726 ssh2
+Sep  5 20:54:56 staging-server sshd[39303]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39300]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45726 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39303]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39298]: Failed password for root from 192.168.1.142 port 45722 ssh2
+Sep  5 20:54:56 staging-server sshd[39298]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45722 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39298]: Disconnecting authenticating user root 192.168.1.142 port 45722: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39298]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39298]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39300]: Disconnecting authenticating user root 192.168.1.142 port 45726: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39300]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39300]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39299]: Failed password for root from 192.168.1.142 port 45724 ssh2
+Sep  5 20:54:56 staging-server sshd[39299]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45724 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39299]: Disconnecting authenticating user root 192.168.1.142 port 45724: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39299]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39299]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39305]: Failed password for root from 192.168.1.142 port 45740 ssh2
+Sep  5 20:54:56 staging-server sshd[39302]: Failed password for root from 192.168.1.142 port 45732 ssh2
+Sep  5 20:54:56 staging-server sshd[39301]: Failed password for root from 192.168.1.142 port 45728 ssh2
+Sep  5 20:54:56 staging-server sshd[39302]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45732 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39302]: Disconnecting authenticating user root 192.168.1.142 port 45732: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39305]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45740 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39301]: error: maximum authentication attempts exceeded for root from 192.168.1.142 port 45728 ssh2 [preauth]
+Sep  5 20:54:56 staging-server sshd[39302]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39301]: Disconnecting authenticating user root 192.168.1.142 port 45728: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39305]: Disconnecting authenticating user root 192.168.1.142 port 45740: Too many authentication failures [preauth]
+Sep  5 20:54:56 staging-server sshd[39301]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39302]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39305]: PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.142  user=root
+Sep  5 20:54:56 staging-server sshd[39301]: PAM service(sshd) ignoring max retries; 6 > 3
+Sep  5 20:54:56 staging-server sshd[39305]: PAM service(sshd) ignoring max retries; 6 > 3
