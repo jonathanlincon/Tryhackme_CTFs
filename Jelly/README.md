@@ -102,12 +102,17 @@ GIF89a213213123
 # First Access
 
 after running Linpeas.sh in SGID section found snapd with suid
+
 check verson snapd
+
 : snapd --version
+
 2.32.5
 
 : searchsploit snapd 2.32.5
+
 found CVE 2019-7304 
+
 dirty_sock.py
 
 upload exploit on target
@@ -115,6 +120,7 @@ upload exploit on target
 running dirty_sock
 ******
 user:dirty_sock
+
 pass:dirty_sock
 ******
 
