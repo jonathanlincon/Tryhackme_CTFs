@@ -1,0 +1,8 @@
+# Dirsearch started Tue Dec 13 00:47:58 2022 as: dirsearch.py -u http://10.10.185.69/ -r -x 400,500 -w /usr/share/wordlists/dirb/common.txt -o dirsearch.log
+
+301     0B   http://10.10.185.69:80/img    -> REDIRECTS TO: img/
+301     0B   http://10.10.185.69:80/index.html    -> REDIRECTS TO: ./
+301     0B   http://10.10.185.69:80/r    -> REDIRECTS TO: r/
+301     0B   http://10.10.185.69:80/img/index.html    -> REDIRECTS TO: ./
+301     0B   http://10.10.185.69:80/r/a    -> REDIRECTS TO: a/
+301     0B   http://10.10.185.69:80/r/index.html    -> REDIRECTS TO: ./
